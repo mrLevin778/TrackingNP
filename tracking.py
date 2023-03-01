@@ -2,7 +2,7 @@ import requests
 import json
 
 url = 'https://api.novaposhta.ua/v2.0/json/'
-trackID = '20400318832057'  # these goods are delivered
+trackID = 'Add your track number'  # these goods are delivered
 
 
 # apiKey - your personal api key from NP, but we can get status code without api key
